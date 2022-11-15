@@ -1,0 +1,11 @@
+Credit's:
+Tile Assets:
+- Cainos -> Pixel Art Platformer Village Props ( https://cainos.itch.io/pixel-art-platformer-village-props )
+- brullov -> Oak Woods — Environment Asset ( https://brullov.itch.io/oak-woods )
+
+Character:
+- LuizMelo -> Hero-Knight ( https://luizmelo.itch.io/hero-knight )
+- Sven -> Zombie ( https://sventhole.itch.io/zombie )
+
+UI:
+- Wenrexa -> Wenrexa UI Medieval Interface ( https://wenrexa.itch.io/uimobile5 )
